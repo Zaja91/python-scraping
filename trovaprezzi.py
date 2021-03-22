@@ -2,7 +2,6 @@
 import requests
 import smtplib
 import time
-import sys
 import webbrowser
 
 from bs4 import BeautifulSoup
